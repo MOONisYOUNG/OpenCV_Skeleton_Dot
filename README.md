@@ -1,4 +1,10 @@
-# Hyunjoo_work
-MHN_City_work_OpenCV
+# 📌 OpenCV_Skeleton_Dot <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+* OpenCV 사용해서 JSON 파일 좌표 토대로 Dot 찍기
+* 외부 데이터 전처리 의뢰 작업으로 진행
 
-* 현주 언니 부탁으로 작성했던 스켈레톤 dot 찍기 코드 
+## 🔹Before
+<image src="https://user-images.githubusercontent.com/87643414/223049112-f270b741-4b9e-469d-8c0b-4756950b2821.png">
+
+## 🔸After
+<image src="https://user-images.githubusercontent.com/87643414/223049545-c669fef9-966e-4b48-9282-5a0973892166.png">
+
