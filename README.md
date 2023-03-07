@@ -1,5 +1,5 @@
 # 📌 OpenCV_Skeleton_Dot <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
-* OpenCV 사용해서 JSON 파일 좌표 토대로 Dot 찍기
+* JSON 파일 좌표 토대로 OpenCV 사용해서 Dot 찍기
 * 데이터 전처리 외부 의뢰 작업으로 진행
 
 ## 🔹Before
